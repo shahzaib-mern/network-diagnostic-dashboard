@@ -1,0 +1,8 @@
+{
+  "name": "network-dashboard",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
