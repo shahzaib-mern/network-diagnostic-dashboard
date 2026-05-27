@@ -1,0 +1,8 @@
+{
+  "name": "network-dashboard-backend-api",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "systeminformation": "^5.21.20"
+  }
+}
